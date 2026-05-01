@@ -1,14 +1,14 @@
 
 
-```markdown
-# 🐧 Linux Commands Guide
+
+## 🐧Linux Commands Guide
 
 > A beginner‑friendly, hands‑on guide to the most useful Linux commands — with a **cheat sheet** and **safe, runnable shell scripts**.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Arbaz-byte/linux-commands-guide)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Arbaz-byte/linux-commands-guide)
 
----
+
 
 ## 📘 What’s inside?
 
@@ -27,8 +27,7 @@
   - `compression` (zip/unzip, tar)
   - `text-processing` (sed, awk, tr)
   - `fun-commands` (cowsay, fortune, figlet, lolcat, cmatrix, sl, btop)
-
----
+    
 
 ## 🚀 Quick start
 
